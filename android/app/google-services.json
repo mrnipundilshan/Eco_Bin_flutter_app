@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640438130227",
+    "project_id": "eco-bin-f139a",
+    "storage_bucket": "eco-bin-f139a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640438130227:android:bb2c68521dcb40ac8db546",
+        "android_client_info": {
+          "package_name": "com.example.pro2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmWo0jDs4T11MAt8BPl1P6qOKCTuOuxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
